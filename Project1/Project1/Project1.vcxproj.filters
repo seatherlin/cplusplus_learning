@@ -84,6 +84,9 @@
     <ClCompile Include="原子类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="包装器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="public.h">

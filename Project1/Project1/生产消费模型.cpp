@@ -115,7 +115,7 @@ public:
 
 };
 
-int main()
+int model()
 {
 	BB bb;
 	thread t1(&BB::cost, &bb);
