@@ -87,6 +87,12 @@
     <ClCompile Include="包装器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="bind 和可变函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回调函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="public.h">

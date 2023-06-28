@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bind 和可变函数.cpp" />
     <ClCompile Include="duotai.cpp" />
     <ClCompile Include="foreach.cpp" />
     <ClCompile Include="fstream_learning.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="原子类型.cpp" />
     <ClCompile Include="包装器.cpp" />
     <ClCompile Include="右值引用.cpp" />
+    <ClCompile Include="回调函数.cpp" />
     <ClCompile Include="智能指针.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="生产消费模型.cpp" />
