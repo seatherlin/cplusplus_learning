@@ -138,6 +138,7 @@
     <ClCompile Include="动态内存.cpp" />
     <ClCompile Include="原子类型.cpp" />
     <ClCompile Include="包装器.cpp" />
+    <ClCompile Include="取代虚函数.cpp" />
     <ClCompile Include="右值引用.cpp" />
     <ClCompile Include="回调函数.cpp" />
     <ClCompile Include="智能指针.cpp" />

@@ -72,7 +72,7 @@ public:
 	}
 };
 
-int main()
+int call_back_test()
 {
 	Model model;
 	Work work;
